@@ -8,6 +8,10 @@ I'm always open to fresh ideas 💡 and exciting new challenges 💪!
 
 ---
 
+> For me **real operating systems** are Unix/BSD/Linux based.
+
+---
+
 ### Languages & tools
 
 ·························································\
