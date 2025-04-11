@@ -40,8 +40,6 @@ I'm always open to fresh ideas 💡 and exciting new challenges 💪!
 ✅ - NodeJS\
 ·························································
 
-> This is are the main languages, which I'm working with.
-
 ---
 
 ### Frameworks & CMS
